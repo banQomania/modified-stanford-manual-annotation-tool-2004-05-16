@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stanford-manual-annotation-tool-openNLP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stanford_manual_annotation_tool_openNLP_jar</output-path>
+    <root id="archive" name="modified stanford-manual-annotation-tool-2004-05-16.jar">
+      <element id="module-output" name="modified stanford-manual-annotation-tool-2004-05-16" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/html-parser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
